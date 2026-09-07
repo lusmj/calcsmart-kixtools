@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://calc.kixtools.com/sitemap.xml
+Sitemap: http://kixtools.09518901.xyz/sitemap.xml
